@@ -6,9 +6,7 @@
 
 ## 二、更多
 
-请联系我
-
-<button href="tencent://message/?uin=1337834741"><img src="http://wpa.qq.com/pa?p=1:1337834741:4" border=”0″><span style="margin: 0 10px">CONNECT ME<span></button>
+<button href="tencent://message/?uin=1337834741"><span style="margin: 0 10px">CONNECT ME<span></button>
 
 <style>
 button { 
