@@ -1,0 +1,24 @@
+.doc-container {
+  padding-bottom: 15vh;
+}
+
+/* 电脑 */
+@media (min-width: 1024px) {
+  a.exam-name.mdui-text-truncate {
+    max-width: 50vmin;
+  }
+}
+
+/* 平板 */
+@media (max-width: 1023px) {
+  a.exam-name.mdui-text-truncate {
+    max-width: 50vmin;
+  }
+}
+
+/* 手机 */
+@media (max-width: 599px) {
+  a.exam-name.mdui-text-truncate {
+    max-width: 30vmin;
+  }
+}

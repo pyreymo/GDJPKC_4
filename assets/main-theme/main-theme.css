@@ -1,0 +1,42 @@
+/* 魔改主题颜色 */
+div.theme-deco {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: fit-content;
+}
+
+div.theme-deco i.theme-deco-scrip-1 {
+  height: 16px;
+  padding: 0 50%;
+  width: 100%;
+  background-color: #4f9dd9;
+}
+div.theme-deco i.theme-deco-scrip-2 {
+  height: 16px;
+  padding: 0 50%;
+  width: 100%;
+  background-color: #294688;
+}
+.mdui-toolbar {
+  background: linear-gradient(45deg, #add0eb, #f4fbff, #c3dbf1);
+}
+
+.mdui-typo a {
+  color: #4f9dd9 !important;
+}
+.mdui-typo a:hover {
+  color: #294688 !important;
+}
+.mdui-typo a::before {
+  background-color: #294688 !important;
+}
+
+.main-theme-color {
+  color: #4f9dd9 !important;
+}
+
+::selection {
+  color: #294688;
+  background: #c3dbf1;
+}
