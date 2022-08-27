@@ -1,9 +1,3 @@
-# 高代精品课程前端改版 - 第四版
+# Rewrite the website front end of the Advanced Algebra: A National Course of Excellence - 4th Edition
 
-## 一、使用
-
-下载之后打开 index.html
-
-## 二、更多
-
-联系我：tencent://message/?uin=1337834741
+Connect me：tencent://message/?uin=1337834741
